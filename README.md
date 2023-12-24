@@ -5,3 +5,4 @@ mergetoolコンフリクト用
 rebase-practiceブランチで更新(Rebase用)
 
 change!! on main
+stash conflict
