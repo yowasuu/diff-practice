@@ -1,3 +1,4 @@
 新規ファイル作成
 変更
 edit
+pull時のrebase用
